@@ -1,5 +1,5 @@
 # Territory of Norfolk Island, 1942
-![Promotional banner.](https://raw.githubusercontent.com/MasterStudioCZ/OTTD_Territory-of-Norfolk-Island-1942/refs/heads/main/banner.png)
+![Promotional banner.](https://raw.githubusercontent.com/MasterStudioCZ/OTTD_Norfolk-Island-1942/refs/heads/main/banner.png)
 **Territory of Norfolk Island** is an external territory of Australia, located in the Pacific Ocean between New Zealand and New Caledonia. In 2021, 2'188 people lived there.
 
 This scenario starts in 1942, the year when Burnt Pine, the largest town in Norfolk Island, was founded. It is a 1:50 recreation of the Territory, with each tile corresponding to 50 metres. It is 256×512 tiles large.
@@ -28,6 +28,12 @@ OpenTTD should automatically install the needed game script and NewGRFs from BaN
 - [Industrial Station Renewal 1.0.2](https://bananas.openttd.org/package/newgrf/4a430002/2015-02-09T19:53:59+00:00)
 
 ## Notes
-- There might be some terrain inaccuracies due to the used heightmap.
+- There might be some terrain inaccuracies due to the heightmap used.
+- Despite the map's relatively large size, it is actually not that large due to the vast amount of water. I included so much of it because I couldn't fit Norfolk Island in otherwise.
 - This map includes features that might not have been present on Norfolk Island in 1942.
 - There is a hotel on Phillip Island to simulate tourist trips there. There is no real-life counterpart; the island is empty and under environmental protection in reality.
+
+## Links
+- [BaNaNaS](https://bananas.openttd.org/manager/scenario/00001a1f)
+- [Transport Tycoon Forums](https://www.tt-forums.net/viewtopic.php?t=92325)
+- [OpenTTD Wiki](https://wiki.openttd.org/en/Community/Scenarios/Norfolk%20Island,%201942)
